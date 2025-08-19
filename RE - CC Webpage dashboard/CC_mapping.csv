@@ -1,0 +1,31 @@
+﻿Account,Year,Category_unique,Sub Category_unique,Category_map,Sub Category_map
+Chase - 6350,2023,Personal Expense,Car Expense,Personal Expense,Car Expense
+US Bank - 6752,2024,Wife - Personal Expense,Online Shopping,Wife - Personal Expense,Online Shopping
+Checking,2025,Household,Food & Bev | Dine out,Household,Food & Bev | Dine out
+,,Kids Expense,Kids - Education,Kids Expense,Kids - Education
+,,Payment,Kids - Entertainment,Kids Expense,Kids - Entertainment
+,,Other Expenses,Home Supplies,Household,Home Supplies
+,,Insurance Expense,Wellness and Entertainment,Wife - Personal Expense,Wellness and Entertainment
+,,Mortgaga Expense,Pet expense,Household,Pet expense
+,,Loan,Payment,Payment,Payment
+,,Payroll ,Subscription,Household,Subscription
+,,Other Expenses ,Bills and Utilities,Household,Bills and Utilities
+,,,Others,Other Expenses,Others
+,,,Travel,Personal Expense,Travel
+,,,Insurance,Insurance Expense,Insurance
+,,,Education,Wife - Personal Expense,Education
+,,,Home Improvement,Household,Home Improvement
+,,,Other - Bank Fees and Interest,Other Expenses,Other - Bank Fees and Interest
+,,,Household - Others,Household,Household - Others
+,,,Other,Wife - Personal Expense,Other
+,,,Mortgage,Mortgaga Expense,Mortgage
+,,,Lot Loan,Loan,Lot Loan
+,,,Daycare,Kids Expense,Daycare
+,,,Other ,Wife - Personal Expense,Other 
+,,,Other - Household Impovements,Other Expenses,Other - Household Impovements
+,,,Payroll,Payroll ,Payroll
+,,,Legal,Other Expenses,Legal
+,,,Accounting,Other Expenses,Accounting
+,,,Chef,Household,Chef
+,,,Gifts,Other Expenses,Gifts
+,,,Donation ,Other Expenses,Donation 
